@@ -21,9 +21,12 @@ body{
      padding: 0.5em;
      align-items: center;
 }
-img{
+.logo{
     height: 40px;
     width: 40px;
+}
+.personas{
+    width:100%;
 }
 #cabecera #tagline{
     padding: 1em 0 0 0 ;
