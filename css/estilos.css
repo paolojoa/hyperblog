@@ -8,6 +8,7 @@ body{
     padding:0;
     margin:0;
     font-size: 16px;
+    background-color: #333;
 }
 #cabecera{
      background-color: blue;
@@ -15,7 +16,14 @@ body{
      color: white;
      font-weight: bold;
      margin: 0;
+     display: flex;
+     flex: auto;
      padding: 0.5em;
+     align-items: center;
+}
+img{
+    height: 40px;
+    width: 40px;
 }
 #cabecera #tagline{
     padding: 1em 0 0 0 ;
@@ -29,6 +37,7 @@ body{
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
+    background-color: white;
 }
  #container h1{
      font-size: 20px;
