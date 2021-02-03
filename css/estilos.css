@@ -42,3 +42,11 @@ img{
  #container h1{
      font-size: 20px;
  }
+ .footer{
+     background: green;
+     width: 72.5%;
+     display: inline-block;
+ }
+ .footer h2{
+     color: gold;
+ }
